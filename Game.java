@@ -1,4 +1,4 @@
-package lesson4;
+package git;
 
 import java.util.Random;
 import java.util.Scanner;
